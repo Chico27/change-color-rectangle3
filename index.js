@@ -51,8 +51,8 @@ function setColor(){
   let colorList2 = ['red', 'yellow', 'blue'];
 
   // for (let i = 0;i < 6; i++){
-    colornum = Math.floor(Math.random()*colorList1.length);
-    let colorString = colorList1[colornum];
+    colornum = Math.floor(Math.random()*colorList2.length);
+    let colorString = colorList2[colornum];
     // console.log(colorString);
   // }
 
